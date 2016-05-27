@@ -1,0 +1,8 @@
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\bin\Debug\WinEmailExtract.exe
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\bin\Debug\WinEmailExtract.pdb
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Debug\WinEmailExtract.Form1.resources
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Debug\WinEmailExtract.Properties.Resources.resources
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Debug\WinEmailExtract.csproj.GenerateResource.Cache
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Debug\WinEmailExtract.exe
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Debug\WinEmailExtract.pdb

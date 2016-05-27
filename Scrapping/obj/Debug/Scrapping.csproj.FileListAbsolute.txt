@@ -1,0 +1,9 @@
+c:\users\hapu\documents\visual studio 2013\Projects\Scrapping\Scrapping\bin\Debug\Scrapping.exe.config
+c:\users\hapu\documents\visual studio 2013\Projects\Scrapping\Scrapping\bin\Debug\Scrapping.exe
+c:\users\hapu\documents\visual studio 2013\Projects\Scrapping\Scrapping\bin\Debug\Scrapping.pdb
+c:\users\hapu\documents\visual studio 2013\Projects\Scrapping\Scrapping\obj\Debug\Scrapping.csprojResolveAssemblyReference.cache
+c:\users\hapu\documents\visual studio 2013\Projects\Scrapping\Scrapping\obj\Debug\WinEmailExtract.Form1.resources
+c:\users\hapu\documents\visual studio 2013\Projects\Scrapping\Scrapping\obj\Debug\Scrapping.Properties.Resources.resources
+c:\users\hapu\documents\visual studio 2013\Projects\Scrapping\Scrapping\obj\Debug\Scrapping.csproj.GenerateResource.Cache
+c:\users\hapu\documents\visual studio 2013\Projects\Scrapping\Scrapping\obj\Debug\Scrapping.exe
+c:\users\hapu\documents\visual studio 2013\Projects\Scrapping\Scrapping\obj\Debug\Scrapping.pdb

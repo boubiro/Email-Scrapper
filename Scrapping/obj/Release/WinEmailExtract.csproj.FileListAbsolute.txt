@@ -1,0 +1,17 @@
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\bin\Release\WinEmailExtract.exe
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\bin\Release\WinEmailExtract.pdb
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\ResolveAssemblyReference.cache
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\WinEmailExtract.Properties.Resources.resources
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\WinEmailExtract.csproj.GenerateResource.Cache
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\WinEmailExtract.exe
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\WinEmailExtract.pdb
+C:\Users\c102989\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\WinEmailExtract.Extract.resources
+C:\Documents and Settings\Shantanu\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\WinEmailExtract.exe
+C:\Documents and Settings\Shantanu\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\WinEmailExtract.pdb
+C:\Documents and Settings\Shantanu\Desktop\Projects\WinEmailExtract\WinEmailExtract\bin\Release\WinEmailExtract.exe
+C:\Documents and Settings\Shantanu\Desktop\Projects\WinEmailExtract\WinEmailExtract\bin\Release\WinEmailExtract.pdb
+C:\Documents and Settings\Shantanu\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Shantanu\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\WinEmailExtract.Properties.Resources.resources
+C:\Documents and Settings\Shantanu\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Shantanu\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Shantanu\Desktop\Projects\WinEmailExtract\WinEmailExtract\obj\Release\WinEmailExtract.Form1.resources
